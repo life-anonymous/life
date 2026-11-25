@@ -1,0 +1,109 @@
+/* Compact spacing with the original Inter typeface; reference: ExtremeNav. */
+body {
+  font-family: 'Inter', 'Segoe UI', Arial, sans-serif;
+  line-height: 1.55;
+}
+
+.showcase .hero { padding-block: 124px 64px; }
+.showcase h1 {
+  max-width: 1800px;
+  font-size: clamp(36px, calc((100vw - 40px) * .04), 68px);
+  line-height: 1.22;
+  letter-spacing: -.04em;
+}
+.showcase .title-line { white-space: normal; text-wrap: balance; }
+.showcase .title-text { font-weight: 700; }
+.showcase .title-name { font-size: 1.06em; }
+.showcase .authors { margin-top: 20px; font-size: 17px; }
+
+.showcase .demonstrations { padding-block: 36px 40px; }
+.showcase .section-heading,
+.showcase #overview .section-heading { margin-bottom: 20px; }
+.showcase h2 {
+  font-size: clamp(32px, 3.1vw, 44px);
+  letter-spacing: -.025em;
+}
+.demonstration-grid, .demo-grid { gap: 20px; }
+.demonstration h3 { font-size: 36px; margin-bottom: 10px; }
+.ray-visualization-note { margin-top: 9px; line-height: 1.5; }
+.showcase #overview { padding-block: 40px; }
+.image-expand { padding: 14px; border-radius: 12px; }
+.showcase .experiments-section { padding-top: 40px; }
+
+.scene-nav { gap: 8px; padding-block: 8px; }
+.scene-nav a { font-size: 26px; padding: 8px 14px; border-radius: 9px; }
+.experiment-block,
+.experiment-block + .experiment-block { padding-block: 32px 16px; }
+.experiment-heading { margin-bottom: 2px; }
+.experiment-heading h3 { font-size: 38px; letter-spacing: -.02em; }
+.experiment-heading p { font-size: 18px; margin-top: 8px; line-height: 1.5; }
+.scene.comparison-group { padding-block: 20px 22px; }
+.scene-header { margin-bottom: 8px; }
+.scene-header h4, .demo-heading h4 { font-size: 32px; letter-spacing: -.015em; }
+.scene.comparison-group .scene-tools { margin: 0 0 10px; }
+.scene-tools { gap: 8px; }
+.scene-tools button, .scene-tools select {
+  font-size: 18px;
+  font-weight: 600;
+  border-radius: 8px;
+  padding-block: 5px;
+}
+.scene-tools label { font-size: 16px; }
+.scene-grid { gap: 16px; }
+.video-card, .demonstration video, .demo-slot video { border-radius: 11px; }
+.showcase .video-label { font-size: 28px; padding: 9px 12px; }
+.application-demos .experiment-heading { margin-bottom: 18px; }
+.demo-slot { display: grid; grid-template-rows: 1fr auto; }
+.demo-heading { grid-template-columns: 1fr; align-content: start; min-height: 0; margin-bottom: 10px; gap: 4px; }
+.demo-speed { padding-top: 3px; }
+#application-demos { padding-bottom: 40px; }
+.showcase .site-footer { padding-block: 22px 28px; }
+
+@media (max-width: 1000px) {
+  .showcase .hero { padding-block: 100px 48px; }
+  .showcase h1 { font-size: clamp(38px, 5vw, 50px); }
+  .showcase .video-label { font-size: 20px; }
+  .scene-header h4, .demo-heading h4 { font-size: 28px; }
+  .demo-speed { padding-top: 0; }
+}
+
+@media (max-width: 760px) {
+  .showcase .hero { padding-block: 80px 40px; }
+  .showcase h1 { font-size: clamp(32px, 7.8vw, 44px); line-height: 1.2; }
+  .showcase .authors { margin-top: 18px; font-size: 16px; }
+  .showcase .demonstrations { padding-block: 26px 30px; }
+  .showcase .section-heading,
+  .showcase #overview .section-heading { margin-bottom: 16px; }
+  .demonstration-grid, .demo-grid { gap: 22px; }
+  .demonstration h3 { font-size: 30px; margin-bottom: 8px; }
+  .showcase #overview { padding-block: 30px; }
+  .image-expand { padding: 8px; }
+  .showcase .experiments-section { padding-top: 30px; }
+  .showcase .scene-nav { padding-block: 7px; }
+  .scene-nav a { font-size: 22px; padding: 8px 10px; }
+  .experiment-block,
+  .experiment-block + .experiment-block { padding-block: 26px 10px; }
+  .experiment-heading h3 { font-size: 32px; }
+  .experiment-heading p { font-size: 16px; }
+  .scene.comparison-group { padding-block: 18px 20px; }
+  .scene-header h4, .demo-heading h4 { font-size: 26px; }
+  .scene-grid { gap: 12px; }
+  .showcase .video-label { font-size: clamp(18px, 5.6vw, 24px); padding: 8px 10px; }
+  .scene-tools button, .scene-tools select { font-size: 16px; }
+  .demo-heading { min-height: 0; }
+  #application-demos { padding-bottom: 30px; }
+}
+
+@media (max-width: 360px) {
+  .showcase .video-label { font-size: 18px; }
+}
+
+/* Match the reference heading weights while retaining the compact layout. */
+.showcase h2, .showcase h3, .showcase h4 { font-weight: 650; }
+
+@media (min-width: 1001px) {
+  .showcase .hero.container { width: min(1800px, calc(100% - 40px)); }
+  .showcase .title-line { white-space: nowrap; }
+}
+
+.demo-heading h4 { text-wrap: balance; }

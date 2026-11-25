@@ -1,0 +1,267 @@
+[
+  {
+    "path": ".nojekyll",
+    "size": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "assets/favicon-photo-f8bda0259a.jpg",
+    "size": 124688,
+    "sha256": "f8bda0259a73b84700be7810ff8cb91fe5e718deca1345d18ae93d238f960589"
+  },
+  {
+    "path": "assets/favicon.svg",
+    "size": 223,
+    "sha256": "9fad5c3c9651ba11b8ea28da476bc64ae69d4745bc37077c3d0ac6f5818226e5"
+  },
+  {
+    "path": "assets/fonts/inter-latin-variable.woff2",
+    "size": 48256,
+    "sha256": "3100e775e8616cd2611beecfa23a4263d7037586789b43f035236a2e6fbd4c62"
+  },
+  {
+    "path": "assets/fonts/nunito-latin-variable.woff2",
+    "size": 39128,
+    "sha256": "ba344451eab25b217a165363b1982048a5e5830a0daf36577973955a04cac793"
+  },
+  {
+    "path": "assets/fonts/OFL-Inter.txt",
+    "size": 4470,
+    "sha256": "f14f2b95a38f4f20cad4d27f7710593f37534c046641be0348da7c28365f4e39"
+  },
+  {
+    "path": "assets/fonts/OFL-Nunito.txt",
+    "size": 4385,
+    "sha256": "580df76c95a1ec5ab878ceb25bb3d85c6a076804e9c970c8c6972aea775fdf65"
+  },
+  {
+    "path": "assets/images/curb-direct.jpg",
+    "size": 503965,
+    "sha256": "c0ee64507d16edb763917978d97bbadc7b4fb368547a394fbb5b89a876c3f120"
+  },
+  {
+    "path": "assets/images/curb-life.jpg",
+    "size": 659741,
+    "sha256": "ced8ca262856cdccdcd91a031fad744c0edae56275f23a156e328d0e8d7c06ef"
+  },
+  {
+    "path": "assets/images/descent-direct.jpg",
+    "size": 722862,
+    "sha256": "abf005976786e78dce817eba1fc1e7e680601a63701aebd9542bacae57276887"
+  },
+  {
+    "path": "assets/images/descent-life.jpg",
+    "size": 686031,
+    "sha256": "db0c8cd714689298a0e977f115635b719e17bfcf864efc8850bfa3ca3aba47d1"
+  },
+  {
+    "path": "assets/images/dynamic-obstacle-avoidance.jpg",
+    "size": 471471,
+    "sha256": "21844caf5afb8d5e8faf4307d29a2f95d6777a9a6c8b8933060dd29d3db22769"
+  },
+  {
+    "path": "assets/images/framework.png",
+    "size": 1506213,
+    "sha256": "f8112e0a3f7073a5d5f398403118d029f7e70cacbc38c73e8b0bb6ffc59108b2"
+  },
+  {
+    "path": "assets/images/framework.svg",
+    "size": 2008490,
+    "sha256": "67ef527249d9d904a1b2ff3cc2ac656edca013d33695b683e3979d814d90b53c"
+  },
+  {
+    "path": "assets/images/grass-geo.jpg",
+    "size": 822413,
+    "sha256": "b3bf35763885e36a7c942369be3af27f6754e274148a4ed2a02112f1e08485a7"
+  },
+  {
+    "path": "assets/images/grass-life.jpg",
+    "size": 699084,
+    "sha256": "6e45fe26cd317599358f86e15c971118012121c7222e51dbd62f7d0a38b7bcfd"
+  },
+  {
+    "path": "assets/images/indoor-direct.jpg",
+    "size": 127483,
+    "sha256": "e8591058dd53ed5641dd6b61e65fb7de61c1e579a4c695410a7fa025eb63c9c9"
+  },
+  {
+    "path": "assets/images/indoor-life.jpg",
+    "size": 136953,
+    "sha256": "de420a64a7fe8271871e20615c24b07bef5a1fdcec9d0b1dd1ddedda0df9803d"
+  },
+  {
+    "path": "assets/images/mattress-direct.jpg",
+    "size": 143922,
+    "sha256": "6ae9dcb9b601374bccca334b0f1ee9759e684bf11aea3ceb942d33fa9fff4a82"
+  },
+  {
+    "path": "assets/images/mattress-life.jpg",
+    "size": 147953,
+    "sha256": "896f5e5d1018990dc76ec97e75bfaf58901da3db2aee25b1b7244739a1ff0243"
+  },
+  {
+    "path": "assets/images/mixed-direct.jpg",
+    "size": 163214,
+    "sha256": "be4e986ce067fb7bf3907f6e86c1c68286a89ac50eeb3bab50d3eb170c3b1062"
+  },
+  {
+    "path": "assets/images/mixed-life.jpg",
+    "size": 180676,
+    "sha256": "4d25ab7c79890ae3836b5acd517097397530f2e9ec380db5cdefa9d4752edc19"
+  },
+  {
+    "path": "assets/images/nighttime-navigation.jpg",
+    "size": 130997,
+    "sha256": "ad1bfb40cbf750586d9f8777785949ce33cade77514dc5b5453f626a5f9e2259"
+  },
+  {
+    "path": "assets/images/real-world-full.jpg",
+    "size": 719990,
+    "sha256": "ad7447370a9b316066eb170c64f91ba0f1f33b6a772374edc34ef836413501e6"
+  },
+  {
+    "path": "assets/images/simulation.jpg",
+    "size": 246692,
+    "sha256": "01ac25fd04a6ce04f6c18b03e9462f801c30639d7cb9c9e814af15f546957efe"
+  },
+  {
+    "path": "assets/images/stairs-direct.jpg",
+    "size": 588038,
+    "sha256": "e7cc674282c18504977a698cb89a1d7ce81c6b6fcef7ad3eee8f3f7b6bd52236"
+  },
+  {
+    "path": "assets/images/stairs-geo.jpg",
+    "size": 671820,
+    "sha256": "33c50d66f129e1828d7ba28735d087a81e33fc511e4ab5838f2735508db19fd6"
+  },
+  {
+    "path": "assets/images/stairs-life.jpg",
+    "size": 627577,
+    "sha256": "5abd82b8e6078d7da9003c7208e4274e87311c0c7f538314895a98bef1b16226"
+  },
+  {
+    "path": "assets/rounded.css",
+    "size": 4549,
+    "sha256": "da46292bbdba5023408104b697401fb9b5c858129046e536d53fdd21935eba45"
+  },
+  {
+    "path": "assets/site.js",
+    "size": 10577,
+    "sha256": "c8dc9162c4e6142e292af69db99c0e3895055368dbe5a12deea55a187f5c864b"
+  },
+  {
+    "path": "assets/styles.css",
+    "size": 25346,
+    "sha256": "dfb974b8b52c8233085b72d88067b16d373378223df8a3b14801f4f1ce8f10c8"
+  },
+  {
+    "path": "assets/videos/curb-direct.mp4",
+    "size": 4532041,
+    "sha256": "51794e56f737fa9b20411b19fb2e7995b79deb0687b2594003340438c15a50a9"
+  },
+  {
+    "path": "assets/videos/curb-life.mp4",
+    "size": 6294280,
+    "sha256": "555a79cc931fab81a9e2482de937aacfce14bd87e14c71045a96ce3d026ad729"
+  },
+  {
+    "path": "assets/videos/descent-direct.mp4",
+    "size": 12377591,
+    "sha256": "f70985030473473264e93a9bcedbda8314f3e30eb1efac7a64b0ca2b17049ae0"
+  },
+  {
+    "path": "assets/videos/descent-life.mp4",
+    "size": 13610105,
+    "sha256": "563d01935a22d84204b1a3382f55176493cf3adda929210222f89dfcaa1a338f"
+  },
+  {
+    "path": "assets/videos/dynamic-obstacle-avoidance.mp4",
+    "size": 9596005,
+    "sha256": "6f5d87c0a6f1c26c3dd68610f22d021627be45d0578768f6de54bf8dc8608cee"
+  },
+  {
+    "path": "assets/videos/grass-geo.mp4",
+    "size": 50494107,
+    "sha256": "b091e603204656cd0564a95b63c894cfba6ed7a998584345658c2e98c7bebeeb"
+  },
+  {
+    "path": "assets/videos/grass-life.mp4",
+    "size": 33699644,
+    "sha256": "76f0e005551f68592101926b42201d597036f58ffa98a630b4129b50a889cccb"
+  },
+  {
+    "path": "assets/videos/indoor-direct.mp4",
+    "size": 13321065,
+    "sha256": "a60d65386d8301a3cd3809c44678d0da84a5561869511b616ad19c31c5f804fc"
+  },
+  {
+    "path": "assets/videos/indoor-life.mp4",
+    "size": 18185097,
+    "sha256": "ec8d040f23713583eab61e42fb3be86d7800535a14fd224e7567d415174612bd"
+  },
+  {
+    "path": "assets/videos/mattress-direct.mp4",
+    "size": 5843638,
+    "sha256": "94c5efa65eea6dfb55f1e7fecc8c0e14a635121c6e279586d03e377a4f6caa6e"
+  },
+  {
+    "path": "assets/videos/mattress-life.mp4",
+    "size": 10488968,
+    "sha256": "abd4f747aaeeb54ecb74994d516bd833f9934ff76679a0519cba027829859911"
+  },
+  {
+    "path": "assets/videos/mixed-direct.mp4",
+    "size": 24039988,
+    "sha256": "9e55bbef2657b92a150ac51a617b3cfde9997a270909c54e2bb5679009382eaf"
+  },
+  {
+    "path": "assets/videos/mixed-life.mp4",
+    "size": 21702277,
+    "sha256": "8aaf5241d47726885fc5b4212f152563250917cc5f32b7226178136a7cd1d212"
+  },
+  {
+    "path": "assets/videos/nighttime-navigation.mp4",
+    "size": 10826719,
+    "sha256": "e14f76493722723c3641423e3e9867b8dac8f6b23b960441ca62569ca7ad3c79"
+  },
+  {
+    "path": "assets/videos/real-world-full.mp4",
+    "size": 153652163,
+    "parts": [
+      "media-parts/assets/videos/real-world-full.mp4/part-000",
+      "media-parts/assets/videos/real-world-full.mp4/part-001",
+      "media-parts/assets/videos/real-world-full.mp4/part-002"
+    ],
+    "sha256": "16faf0515f9f9f57116e29f421e8600f153fcca1d18ebc267145ae986a89c77c"
+  },
+  {
+    "path": "assets/videos/simulation.mp4",
+    "size": 104355532,
+    "sha256": "00233668d9a20890d8cd8a04d6dd05391bd3c04e54a2977f580ee6ea0e8a3261"
+  },
+  {
+    "path": "assets/videos/stairs-direct.mp4",
+    "size": 15565376,
+    "sha256": "bfa9b5d7f9e747114459bb6923559c820de31a542ca778662b855e6738a187bc"
+  },
+  {
+    "path": "assets/videos/stairs-geo.mp4",
+    "size": 29061053,
+    "sha256": "faa1e712eda630d0b0a787ade155b90e7fd25e39fa26c8ee2791aaa015f9473e"
+  },
+  {
+    "path": "assets/videos/stairs-life.mp4",
+    "size": 34288369,
+    "sha256": "d2d2009293467042bae36b23c71a3d8b609826c3a59277c7b504ab306700d3f5"
+  },
+  {
+    "path": "index.html",
+    "size": 7726,
+    "sha256": "70618f0d63901e079c91080ebbed52d92f70b6037cbca41b11d889c1c874a75e"
+  },
+  {
+    "path": "media.html",
+    "size": 6150,
+    "sha256": "f61d19a2f5a53af0674336247714302434e3bc63e9f9d1e4001c5a0efa16ad93"
+  }
+]
